@@ -21,5 +21,4 @@
 
 ```bash
 cd youtube_reports
-```bash
 python main.py --files stats1.csv stats2.csv --report clickbait
