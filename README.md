@@ -32,10 +32,10 @@ python youtube_reports/main.py --files stats1.csv stats2.csv --report clickbait
 
 
 ## Тесты
-
-# Запуск
+Запуск
 ```bash
 python pytest -m pytest -v
 ```
 
-# Пример работы тестов
+Пример работы тестов
+![Пример запуска тестов](screen_2.png)
