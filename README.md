@@ -38,4 +38,4 @@ python pytest -m pytest -v
 ```
 
 Пример работы тестов
-![Пример запуска тестов](screen_2.png)
+![Пример](screen_2.png)
