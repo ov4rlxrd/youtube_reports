@@ -22,5 +22,5 @@
 ```bash
 cd youtube_reports
 python main.py --files stats1.csv stats2.csv --report clickbait
-
+```
 ## Пример вывода
